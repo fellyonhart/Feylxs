@@ -1,4 +1,4 @@
-<svg width="900" height="380" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="460" viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#050B1F"/>
@@ -20,13 +20,13 @@
     </filter>
   </defs>
 
-  <rect x="4" y="4" width="892" height="372" rx="16" fill="url(#bg)" stroke="url(#borderGrad)" stroke-width="2" filter="url(#glow)"/>
+  <rect x="4" y="4" width="892" height="452" rx="16" fill="url(#bg)" stroke="url(#borderGrad)" stroke-width="2" filter="url(#glow)"/>
 
   <g stroke="#4CC9F0" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.9">
     <path d="M 24 44 L 24 24 L 44 24"/>
     <path d="M 856 24 L 876 24 L 876 44"/>
-    <path d="M 24 336 L 24 356 L 44 356"/>
-    <path d="M 856 356 L 876 356 L 876 336"/>
+    <path d="M 24 416 L 24 436 L 44 436"/>
+    <path d="M 856 436 L 876 436 L 876 416"/>
   </g>
 
   <text x="450" y="58" text-anchor="middle" font-family="'Courier New', monospace" font-weight="800" font-size="32" fill="#ffffff" filter="url(#softGlow)" letter-spacing="5">TECH STACK</text>
@@ -35,7 +35,6 @@
   <text x="450" y="118" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="17" fill="#4CC9F0" letter-spacing="4">LANGUAGES</text>
   <line x1="385" y1="128" x2="515" y2="128" stroke="#4CC9F0" stroke-width="1.2" opacity="0.6"/>
 
-  <!-- language pills -->
   <g font-family="'Courier New', monospace" font-weight="700" font-size="15" letter-spacing="1">
     <rect x="140" y="148" width="90" height="44" rx="22" fill="#0A1930" stroke="#4CC9F0" stroke-width="1.6"/>
     <text x="185" y="176" text-anchor="middle" fill="#ffffff">C++</text>
@@ -53,10 +52,9 @@
     <text x="715" y="176" text-anchor="middle" fill="#ffffff">CSS3</text>
   </g>
 
-  <text x="450" y="232" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="17" fill="#48CAE4" letter-spacing="4">HOSTING</text>
+  <text x="450" y="232" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="17" fill="#48CAE4" letter-spacing="4">DEPLOYMENT</text>
   <line x1="385" y1="242" x2="515" y2="242" stroke="#48CAE4" stroke-width="1.2" opacity="0.6"/>
 
-  <!-- hosting pills -->
   <g font-family="'Courier New', monospace" font-weight="700" font-size="15" letter-spacing="1">
     <rect x="330" y="262" width="110" height="44" rx="22" fill="#0A1930" stroke="#0077B6" stroke-width="1.6"/>
     <text x="385" y="290" text-anchor="middle" fill="#ffffff">VERCEL</text>
@@ -65,6 +63,14 @@
     <text x="515" y="290" text-anchor="middle" fill="#ffffff">NETLIFY</text>
   </g>
 
+  <text x="450" y="346" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="17" fill="#48CAE4" letter-spacing="4">DESIGN</text>
+  <line x1="385" y1="356" x2="515" y2="356" stroke="#48CAE4" stroke-width="1.2" opacity="0.6"/>
+
+  <g font-family="'Courier New', monospace" font-weight="700" font-size="15" letter-spacing="1">
+    <rect x="395" y="376" width="110" height="44" rx="22" fill="#0A1930" stroke="#0077B6" stroke-width="1.6"/>
+    <text x="450" y="404" text-anchor="middle" fill="#ffffff">FIGMA</text>
+  </g>
+
   <circle cx="110" cy="70" r="2" fill="#4CC9F0" opacity="0.4"/>
-  <circle cx="790" cy="330" r="2" fill="#48CAE4" opacity="0.4"/>
+  <circle cx="790" cy="410" r="2" fill="#48CAE4" opacity="0.4"/>
 </svg>
